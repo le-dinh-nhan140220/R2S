@@ -1,0 +1,17 @@
+.bgr {
+    background-color: yellow;
+}
+
+.green-text {
+    background-color: green;
+    border: groove 3px;
+}
+
+.red-text {
+    background-color: red;
+    border: groove 3px;
+}
+
+.boderr-text {
+    border: groove 3px;
+}

@@ -1,0 +1,28 @@
+.container {
+    border-radius: 1px;
+}
+
+h1 {
+    color: hotpink;
+}
+
+.header {
+    border-bottom: dotted 10px #9900CC;
+}
+
+h4 {
+    color: #C0C0C0;
+}
+
+h2 {
+    font-style: italic;
+}
+
+.footer {
+    background-color: #eeeeee;
+    border: 5px solid purple;
+}
+
+li:hover {
+    color: green;
+}

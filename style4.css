@@ -1,0 +1,17 @@
+.container {
+    margin: auto;
+}
+
+.link-1 {
+    border: 2px solid green;
+}
+
+.link-2 {
+    border: 2px solid pink;
+    margin-top: 5px;
+}
+
+.link-3 {
+    border: 2px solid orange;
+    margin-top: 5px;
+}
